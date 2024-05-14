@@ -1,38 +1,82 @@
-.App {
-  text-align: center;
+
+h1{
+  color:blue;
+  text-align:left;
+  text-transform: capitalize;
+  margin-left: 30px;
+}
+h2{
+  color:blue;
+  text-transform: capitalize;
+  margin-left: 60px;
+  font-size: 30px;
+  margin-top: 10vh;
+}
+p{
+  margin-left: 60px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.to{
+ height:54px;
+ width:554px;
+ border:2px solid gray;
+ margin-left: 60px;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.so{
+  height:20px;
+ width: 540px;
+ border:none
+ 
 }
+.eo{
+  height:54px;
+ width:554px;
+ border:2px solid gray;
+ margin-left: 0px;
+ margin-top: 10px;
+}
+.e{
+  opacity: 30px;
+  margin-top: 10px;
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+}
+.vine{
+  margin-left: 410px;
+  margin-top: -30px;
+}
+.w{
+  background-color: blue;
+  height: 54px;
+  width: 129px;
   color: white;
+  margin-top: 30px;
+  
 }
-
-.App-link {
-  color: #61dafb;
+.f{
+  background-color: blue;
+  height: 54px;
+  width: 129px;
+  color: white;
+  margin-left: 30px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.sa{
+  margin-top: 90px;
+  margin-left: -60px;
+}
+.do{
+  margin-top:-40px;
+  margin-left: 150px;
+  color: blue;
+  word-spacing: 70px;
+}
+input[type="email"], input[type="password"], textarea {
+  border: none;
+  outline: none;
+  border-bottom: 0px solid #ccc; /* You can adjust the color and thickness of the outline */
+}
+.col2{
+  
+}
+.mo{
+  text-align: center;
 }
